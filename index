@@ -16,7 +16,7 @@ psl league 2023,
 	
 	 ">
 	<link rel="icon" href="pic/ticon.png" class=" h-9 w-64">
-	<link rel="Canonical" href="https://www.cricketofpakistan.cf/index.html">
+	<link rel="Canonical" href="https://cricketofpk.com/index">
 	
 	
 	
@@ -89,13 +89,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			</a>
 			<div class=" absolute bg-white  hidden group-hover:block hover:block">
 				<ul>
-					<li class=" mt-3 text-black hover:text-white hover:bg-green-500"><a href="indexcop.html">Cricket of Pak</a></li>
+					<li class=" mt-3 text-black hover:text-white hover:bg-green-500"><a href="indexcop">Cricket of Pak</a></li>
 					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indexpsl">PSL</a></li>
-					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indexpjl.html">PJL</a></li>
-					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indexdomestic.html">Domestic Cricket</a></li>
-					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indextape.html">Tap bowl Cricket
+					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indexpjl">PJL</a></li>
+					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indexdomestic">Domestic Cricket</a></li>
+					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indextape">Tap bowl Cricket
 					</a></li>
-					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indextalent.html">Pak Crik Telent</a></li>
+					<li class=" text-black hover:text-white hover:bg-green-500"><a href="indextalent">Pak Crik Telent</a></li>
 				</ul>
 
 			</div>
@@ -154,7 +154,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 			
 			<div class=" md:ml-6 bg-white md:float-left mt-6 hover:scale-105 md:w-[425px]">
-				<a href="indexpakistan.html">
+				<a href="indexpakistan">
 
 			<img src="pic/pakcrick.jpg" class=" w-full   rounded-md md:h-64  
 			md:float-left mr-[30px]">
@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 			<div class=" md:ml-6 md:w-[425px] bg-white md:float-left mt-6 hover:scale-105">
 
-				<a href="indexpjl.html">
+				<a href="indexpjl">
 				<img src="pic/pjl.jpg" class=" w-full  rounded-md md:h-64  
 				md:float-left mr-[20px]">
 	
@@ -187,7 +187,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class=" md:ml-6 md:w-[405px] bg-white md:float-left mt-6 hover:scale-105">
 
-			<a href="indexpsl.html">
+			<a href="indexpsl">
 			<img src="https://www.brandsynario.com/wp-content/uploads/2023/01/WhatsApp-Image-2021-02-15-at-9.43.18-PM-696x348.jpeg" class=" w-full  rounded-md md:h-64  
 			md:float-left mr-[20px]">
 
@@ -207,7 +207,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class=" md:ml-6 bg-white md:w-[425px] md:float-left mt-6 hover:scale-105">
 
-		<a href="indexstreet.html">
+		<a href="indexstreet">
 		<img src="pic/street.jpg" class=" w-full  rounded-md md:h-64  
 		md:float-left mr-[20px]">
 
@@ -225,7 +225,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class=" md:ml-6 bg-white md:w-[425px] md:float-left mt-6 hover:scale-105">
 
 
-	<a href="indextape.html">
+	<a href="indextape">
 	<img src="pic/tape.jpg" class=" w-full  rounded-md md:h-64  
 	md:float-left mr-[20px]">
 
@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class=" md:ml-6 bg-white md:float-left mt-6 hover:scale-105">
 
 
-	<a href="indexbowl.html">
+	<a href="indexbowl">
 	<img src="pic/shoaib.jpg" class=" w-full  rounded-md md:h-64  
 	md:float-left mr-[20px]">
 
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class=" text-right">	
 					<button class=" bg-green-500 text-white 
-			h-8 w-24 rounded-full mt-8  "> <a href="indexcop.html">Show all</a></button>
+			h-8 w-24 rounded-full mt-8  "> <a href="indexcop">Show all</a></button>
 
 		</div>
 
@@ -315,7 +315,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class=" md:flex sm:ml-0 md:mr-20 lg:ml-10 2xl:ml-20">
 
 			<div class=" md:ml-16 mt-7 mx-4">
-				<a href="pakvsbang.html">
+				<a href="pakvsbang">
 			<img src="pic/pakvsbang.webp" alt="Pak vs Ban"
 			 class="  mt-5 md:w-[310px] w-[300px]">
 			 <h2 class=" text-center bg-slate-50">PAK vs BAN</h2>
@@ -326,7 +326,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class="  md:ml-10 md:mt-7 mt-7 mx-4">
-				<a href="pakvszim.html">
+				<a href="pakvszim">
 			<img src="pic/pakvszim.jpeg" alt="PAK vs ZIM"
 			 class="  md:mt-5 md:w-[310px] w-[300px]">
 			 <h2 class=" text-center bg-slate-100">PAK vs ZIM</h2>
@@ -342,7 +342,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<div class=" md:flex sm:ml-0 md:mr-20 lg:ml-10 2xl:ml-20">
 			<div class="  md:ml-16 md:mt-7 mt-7  mx-4">
-				<a href="pakvsneth.html">
+				<a href="pakvsneth">
 			<img src="pic/pakvsned.jpeg" alt="no ball drama"
 			 class="  md:mt-5 md:w-[310px] w-[300px]">
 			 <h2 class=" text-center bg-slate-100">PAK vs NED</h2>
@@ -355,7 +355,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class="  md:ml-10 md:mt-7 mt-7 mx-4">
-				<a href="pakvssarica.html">
+				<a href="pakvssarica">
 			<img src="pic/pakvssouth.jpg" alt="no ball drama"
 			 class="  md:mt-5 md:w-[310px] w-[300px] md:h-52">
 			 <h2 class=" text-center bg-slate-100">PAK vs S.AFRICA</h2>
@@ -391,7 +391,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			mt-[50px] mx-12 md:mt-48 md:mx-96 ">Squad of pakistan</h1>
 
 			<div class=" md:float-left pl-8">
-				<a href="indexbabar.html" class=" flex"><img src="pic/babar.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexbabar" class=" flex"><img src="pic/babar.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Babar Azam</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -405,7 +405,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			
 			
 			<div class=" pl-8 md:float-left">
-				<a href="indexshadab.html" class=" flex"><img src="pic/shadab.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexshadab" class=" flex"><img src="pic/shadab.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Shadab Khan</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -419,7 +419,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 ">
-				<a href="indexrezwan.html" class=" flex"><img src="pic/rezwan.png" class=" mt-8 ml-8 h-28 ">
+				<a href="indexrezwan" class=" flex"><img src="pic/rezwan.png" class=" mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Mohammad Rezwam</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -438,7 +438,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:float-left mr-4 ">
-				<a href="indexhaider.html" class=" flex"><img src="pic/haider.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexhaider" class=" flex"><img src="pic/haider.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Haider Ali</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -452,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[105px] md:float-left ">
-				<a href="indexshan.html" class=" flex"><img src="pic/shan.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexshan" class=" flex"><img src="pic/shan.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Shan Masood</b> <br><br>
 						 <b>Batting: </b> Left handed <br>
@@ -466,7 +466,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[830px] ">
-				<a href="indexiftikhar.html" class=" flex"><img src="pic/iftikhar.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexiftikhar" class=" flex"><img src="pic/iftikhar.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Iftikhar Ahmed</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -480,7 +480,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-8 md:float-left">
-				<a href="indexnawaz.html" class=" flex"><img src="pic/nawaz.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexnawaz" class=" flex"><img src="pic/nawaz.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Mohammad Nawaz</b> <br><br>
 						 <b>Batting: </b> text-left handed <br>
@@ -494,7 +494,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[80px] md:float-left">
-				<a href="indexkhushdil.html" class=" flex"><img src="pic/khushdil.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexkhushdil" class=" flex"><img src="pic/khushdil.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Khushdil Shah</b> <br><br>
 						 <b>Batting: </b> Left handed <br>
@@ -508,7 +508,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[830px] ">
-				<a href="indexasif.html" class=" flex"><img src="pic/asif.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexasif" class=" flex"><img src="pic/asif.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Asif Ali</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -521,7 +521,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-8 md:float-left">
-				<a href="indexharis.html" class=" flex"><img src="pic/haris.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexharis" class=" flex"><img src="pic/haris.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Haris Rauf</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -533,7 +533,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class="pl-8 md:pl-[45px] md:float-left">
-				<a href="indexwasim.html" class=" flex"><img src="pic/wasim.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexwasim" class=" flex"><img src="pic/wasim.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Wasim Jnr</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -548,7 +548,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[830px]">
-				<a href="indexnaseem.html" class=" flex"><img src="pic/nasim.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexnaseem" class=" flex"><img src="pic/nasim.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Nasim Shah</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -562,7 +562,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-8 md:float-left">
-				<a href="indexhasnain.html" class=" flex"><img src="pic/hasnain.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexhasnain" class=" flex"><img src="pic/hasnain.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Mohammad Hasnain</b> <br><br>
 						 <b>Batting: </b> Right handed <br>
@@ -576,7 +576,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<div class=" pl-8 md:pl-[40px] md:float-left">
-				<a href="indexqadir.html" class=" flex"><img src="pic/usman qadir.png" class=" flex mt-8 ml-8 h-28 ">
+				<a href="indexqadir" class=" flex"><img src="pic/usman qadir.png" class=" flex mt-8 ml-8 h-28 ">
 					
 					<p class=" mt-14 ml-2"> <b>Usman Qadir</b> <br><br>
 						 <b>Batting: </b> Left handed <br>
@@ -690,8 +690,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 			<ul class=" text-center float-none">
-				<li class="  mt-5 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="index.html">Home</a></li>
-				<li class="  mt-6 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="indexcop.html">Cric of pak</a></li>
+				<li class="  mt-5 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="index">Home</a></li>
+				<li class="  mt-6 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="indexcop">Cric of pak</a></li>
 				<li class="  mt-6 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="#">Squad of pak</a></li>
 				<li class="  mt-6 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="#">About Cricket</a></li>
 				<li class="  mt-6 md:mt-1 ml-1 text-xl md:mx-4 hover:text-green-500 md:hover:text-white md:hover:bg-green-500"><a href="#">About Us</a></li>
